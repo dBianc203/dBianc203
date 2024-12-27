@@ -38,12 +38,14 @@ Hi! , My name is Devon. I'm currently a Network Engineer for Yale University in 
 <a href="https://www.arubanetworks.com/"><img src="https://img.shields.io/badge/Aruba-%23fc8803?style=for-the-badge&logoColor=White&logoSize=auto"alt="aruba"></a>
 
 ### Certifications
+<div display="flex">
 <img src="https://img.shields.io/badge/A%2B-%23C8202F?style=for-the-badge&logo=CompTIA&logoSize=auto" alt="A+"/>
 <img src="https://img.shields.io/badge/CCT%20Routing%20%26%20Switching-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white&logoSize=auto" alt="CCT"/>
-<img src="https://img.shields.io/badge/MS365_Fundamentals-%235E5E5E?style=for-the-badge&logo=microsoft&logoColor=white&logoSize=auto"alt="ms365"/>
-<img src="https://img.shields.io/badge/Azure_Fundamentals-%235E5E5E?style=for-the-badge&logo=microsoft&logoColor=white&logoSize=auto"alt="azure"/>
+<img src="https://img.shields.io/badge/MS365_Fundamentals-%235E5E5E?style=for-the-badge&logo=microsoft&logoColor=white&logoSize=auto" alt="ms365"/>
+<img src="https://img.shields.io/badge/Azure_Fundamentals-%235E5E5E?style=for-the-badge&logo=microsoft&logoColor=white&logoSize=auto" alt="azure"/>
 <img src="https://img.shields.io/badge/LogicMonitor_Certified_Professional-%232d88eb?style=for-the-badge&logoColor=White&logoSize=auto" alt="lmp"/>
-<img src="https://img.shields.io/badge/LogicMonitor_Certified_Associate-%232d88eb?style=for-the-badge&logoColor=White&logoSize=auto"alt="lmc"/>
+<img src="https://img.shields.io/badge/LogicMonitor_Certified_Associate-%232d88eb?style=for-the-badge&logoColor=White&logoSize=auto" alt="lmc"/>
+</div>  
 
 ### 💻 My Setup
 <a href="https://www.apple.com/imac"><img src="https://img.shields.io/badge/iMac_M3-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=auto" alt="applem3"></a>
