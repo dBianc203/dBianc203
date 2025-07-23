@@ -5,11 +5,11 @@
 ### Network Engineer at Yale University
 
 <div display="flex">
-Hi! , My name is Devon. I'm currently a Network Engineer for Yale University in support of ITS. 
-  
- - I've been with Yale since Feb 2022.
- - I obtained my Bachelors of Science in Computer Information Systems with a concentration in Software Engineering from Northen Vermont University in 2021.
- - I'm a current Graduate student at Quinnipiac University working to obtain my Masters in CyberSecurity.
+ - 4-year Network Engineer
+ - Bachelors in Computer Information Systems from Northern Vermont University
+ - Obtaining Masters in CyberSecurity from Quinnipiac University
+ - Experience with Cisco, Juniper, HP, & Palo Alto hardware.
+ - Experience with Cisco Software include DNA-Center/Cisco ISE/Stealthwatch/Cisco ThousandEyes
 </div>
 
 ### Familiar Languages
