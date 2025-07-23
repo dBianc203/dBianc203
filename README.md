@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" alt="groovy"/>
 </div>
 
-### Hardware/Software I've Worked With
+### Hardware I've worked with
 <div display="flex">
 <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/cisco-%23009EDC?style=for-the-badge&logo=cisco&logoColor=black&logoSize=auto" alt="cisco"></a>
 <a href="https://www.cisco.com/site/us/en/products/networking/catalyst-center/index.html"><img src="https://img.shields.io/badge/DNA_Center-%23009EDC?style=for-the-badge&logo=Cisco&logoColor=black&logoSize=auto" alt="dnac"></a>
@@ -37,7 +37,7 @@
 <a href="https://www.logicmonitor.com/"><img src="https://img.shields.io/badge/LogicMonitor-%232d88eb?style=for-the-badge&logoColor=White&logoSize=auto"alt="lm"></a>
 <a href="https://www.arubanetworks.com/"><img src="https://img.shields.io/badge/Aruba-%23fc8803?style=for-the-badge&logoColor=White&logoSize=auto"alt="aruba"></a>
 
-### Certifications
+### Software I've worked with
 <div display="flex">
 <img src="https://img.shields.io/badge/A%2B-%23C8202F?style=for-the-badge&logo=CompTIA&logoSize=auto" alt="A+"/>
 <img src="https://img.shields.io/badge/CCT%20Routing%20%26%20Switching-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white&logoSize=auto" alt="CCT"/>
@@ -51,7 +51,7 @@
 <a href="https://www.apple.com/imac"><img src="https://img.shields.io/badge/iMac_M3-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=auto" alt="applem3"></a>
 <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" alt="lenovo"/>
 
-### 📫 How to reach me
+### 📫 Connect with me
 
 <div display="flex">
   <a href="www.linkedin.com/in/devonbiancarelli">
