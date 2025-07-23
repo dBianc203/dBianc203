@@ -54,7 +54,7 @@ Hi! , My name is Devon. I'm currently a Network Engineer for Yale University in 
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/devon-b-84559314a/">
+  <a href="www.linkedin.com/in/devonbiancarelli">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
