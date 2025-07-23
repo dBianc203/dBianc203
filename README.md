@@ -9,7 +9,7 @@ Hi! , My name is Devon. I'm currently a Network Engineer for Yale University in 
   
  - I've been with Yale since Feb 2022.
  - I obtained my Bachelors of Science in Computer Information Systems with a concentration in Software Engineering from Northen Vermont University in 2021.
- - Starting this summer (May 2024), I will be attending Quinnipiac University to obtain my Masters in CyberSecurity.
+ - I'm a current Graduate student at Quinnipiac University working to obtain my Masters in CyberSecurity.
 </div>
 
 ### Familiar Languages
