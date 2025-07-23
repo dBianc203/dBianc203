@@ -5,11 +5,11 @@
 ### Network Engineer at Yale University
 
 <div display="flex">
- - 4-year Network Engineer
- - Bachelors in Computer Information Systems from Northern Vermont University
- - Obtaining Masters in CyberSecurity from Quinnipiac University
- - Experience with Cisco, Juniper, HP, & Palo Alto hardware.
- - Experience with Cisco Software include DNA-Center/Cisco ISE/Stealthwatch/Cisco ThousandEyes
+ - 4-year Network Engineer <br>
+ - Bachelors in Computer Information Systems from Northern Vermont University<br>
+ - Obtaining Masters in CyberSecurity from Quinnipiac University<br>
+ - Experience with Cisco, Juniper, HP, & Palo Alto hardware.<br>
+ - Experience with Cisco Software include DNA-Center, Cisco ISE, Stealthwatch, Cisco ThousandEyes
 </div>
 
 ### Familiar Languages
