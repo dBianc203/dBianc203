@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhpeHdxeHNjc3h5d293eDRydWd1dGcyOHkybG9tZmppNGFmamY5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mOKxlx3bUTuRpZieSL/giphy.gif" width="250" height="250"/>
   
-### About Me
+### Network Engineer at Yale University
 
 <div display="flex">
 Hi! , My name is Devon. I'm currently a Network Engineer for Yale University in support of ITS. 
