@@ -12,12 +12,9 @@
  - Experience with Cisco Software include DNA-Center, Cisco ISE, Stealthwatch, Cisco ThousandEyes
 </div>
 
-### Familiar Languages
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,powershell,py)](https://skillicons.dev)
 
 ### Familiar Software
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,ubuntu,sublime,redhat,postman,linux,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,redhat,postman,linux,apple)](https://skillicons.dev)
 
 
 
