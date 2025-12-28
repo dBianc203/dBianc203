@@ -5,11 +5,12 @@
 ### Network Engineer at Yale University
 
 <div display="flex">
- - 4-year Network Engineer <br>
- - Bachelors in Computer Information Systems from Northern Vermont University<br>
- - Obtaining Masters in CyberSecurity from Quinnipiac University<br>
- - Experience with Cisco, Juniper, HP, & Palo Alto hardware.<br>
- - Experience with Cisco Software include DNA-Center, Cisco ISE, Stealthwatch, Cisco ThousandEyes
+ - Junior Network Engineer <br>
+ - Bachelors of Science in Computer Information Systems <br>
+ - Obtaining Masters in CyberSecurity <br>
+ - Experience with Cisco, Juniper, HP, & Palo Alto hardware <br>
+ - Familiar with Cisco Software including Catalyst-Center, ISE, Stealthwatch, ThousandEyes
+ - Worked with Graylog and LogicMonitor for monitoring solutions
 </div>
 
 
@@ -17,6 +18,7 @@
 <a href="https://www.apple.com/imac"><img src="https://img.shields.io/badge/iMac_M3-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=auto" alt="applem3"></a>
 <a href="https://www.apple.com/imac"><img src="https://img.shields.io/badge/MacBook_Pro_M4-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=auto" alt="MacBook Pro M4"></a>
 <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" alt="lenovo"/>
+
 
 ### 📫 Connect with me
 
