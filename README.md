@@ -13,11 +13,6 @@
 </div>
 
 
-### Familiar Software
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,redhat,postman,linux,apple)](https://skillicons.dev)
-
-
-
 ### 💻 My Setup
 <a href="https://www.apple.com/imac"><img src="https://img.shields.io/badge/iMac_M3-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=auto" alt="applem3"></a>
 <a href="https://www.apple.com/imac"><img src="https://img.shields.io/badge/MacBook_Pro_M4-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=auto" alt="MacBook Pro M4"></a>
