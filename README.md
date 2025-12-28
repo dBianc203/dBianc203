@@ -18,6 +18,7 @@
 <a href="https://www.apple.com/imac"><img src="https://img.shields.io/badge/iMac_M3-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=auto" alt="applem3"></a>
 <a href="https://www.apple.com/imac"><img src="https://img.shields.io/badge/MacBook_Pro_M4-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=auto" alt="MacBook Pro M4"></a>
 <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" alt="lenovo"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Linux-Omarchy-white?style=for-the-badge&logo=linux">
 
 
 ### 📫 Connect with me
