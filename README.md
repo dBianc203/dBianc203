@@ -7,7 +7,7 @@
 <div display="flex">
  - Network Engineer <br>
  - Bachelors of Science in Computer Information Systems <br>
- - Obtaining Masters in CyberSecurity <br>
+ - Masters in CyberSecurity <br>
  - Experience with Cisco, Juniper, HP, & Palo Alto hardware <br>
  - Familiar with Cisco Software including Catalyst-Center, ISE, Stealthwatch, ThousandEyes <br>
  - Worked with Graylog and LogicMonitor for monitoring solutions
