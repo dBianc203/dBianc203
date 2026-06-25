@@ -5,7 +5,7 @@
 ### Network Engineer at Yale University
 
 <div display="flex">
- - Junior Network Engineer <br>
+ - Network Engineer <br>
  - Bachelors of Science in Computer Information Systems <br>
  - Obtaining Masters in CyberSecurity <br>
  - Experience with Cisco, Juniper, HP, & Palo Alto hardware <br>
